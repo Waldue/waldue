@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Ich versuche mich derzeit an einer Webhook-Programmierung.
+### Mal schauen, wie gut das funktioniert...
 <!--
 **Waldue/waldue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
